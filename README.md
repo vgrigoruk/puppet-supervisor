@@ -2,8 +2,6 @@
 
 Install and manage supervisor daemon control utility under boxen.
 
-A great module has a working travis build
-
 [![Build Status](https://travis-ci.org/vgrigoruk/puppet-supervisor.svg?branch=master)](https://travis-ci.org/vgrigoruk/puppet-supervisor)
 
 ## Usage

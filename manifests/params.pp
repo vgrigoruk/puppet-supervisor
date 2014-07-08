@@ -3,7 +3,7 @@ class supervisor::params {
 
   $conf_file      = '${boxen::config::configdir}/supervisord.conf'
   $conf_dir       = '${boxen::config::configdir}/supervisord.d'
-  $conf_ext       = '.conf'
+  $conf_ext       = '.ini'
   $system_service = 'supervisord'
   $package        = 'boxen/brews/supervisor'
 }
